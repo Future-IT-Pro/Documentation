@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
     {
       title: 'Future-IT-Dent',
-      Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+      Svg: require('@site/static/img/marketing.svg').default,
       description: (
           <>
               Перейдя на сайт <a href="https://future-it-dent.ru/" target="_blank">Future-IT-Dent</a> вы можете узнать более подробно о тарифах и преимуществах использования нашего Продукта
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Новости FID',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/coming-soon-dark.svg').default,
     description: (
       <>
         <p>Узнать последние новости о продукте:</p>
