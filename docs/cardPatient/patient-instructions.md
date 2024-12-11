@@ -93,3 +93,4 @@ sidebar_position: 1.2
 
 ![Добавить](./assets/card-patient/add_btn-patient.png)
 
+## Как заполнить диагностику
