@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1.9
+sidebar_position: 9.0
 ---
 # Инструкции
 
