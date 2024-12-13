@@ -11,10 +11,10 @@ sidebar_position: 1.2
 Данный модуль позволяет:
 
  - [Заполнить историю болезни](docs/cardPatient/patient-instructions.md#fill_history)  
- - [Просмотреть ранее заполненные истории болезни]
- - [Выдать рекомендацию к смежному специалисту]  
- - [Перейти в медицинскую карту]  
- - [Распечатать историю болезни]
+ - [Просмотреть ранее заполненные истории болезни](docs/cardPatient/patient-instructions.md#see_history)
+ - [Выдать рекомендацию к смежному специалисту](docs/cardPatient/patient-instructions.md#add_rec)  
+ - [Перейти в медицинскую карту](#медицинская-карта-043у)  
+ - [Распечатать историю болезни](docs/cardPatient/patient-instructions.md#fill_history)
 
  
 
@@ -51,7 +51,7 @@ sidebar_position: 1.2
 
 ![Переход в карту](./assets/h_disease/m-043.png)
 
-Нажав на выделенную кнопку Вы можете перейти в [Медицинскую Карту] пациенту 
+Нажав на выделенную кнопку Вы можете перейти в [Медицинскую Карту](docs/cardPatient/patient-instructions.md#043u) пациента 
 
 ## Рекомендации  
 
@@ -66,10 +66,10 @@ sidebar_position: 1.2
 
 ---  
 
-[Как добавить рекомендацию]
+[Как добавить рекомендацию](docs/cardPatient/patient-instructions.md#add_rec)
 
-[Как изменить рекомендацию]
+[Как изменить рекомендацию](docs/cardPatient/patient-instructions.md#edit_rec)
 
-[Как составить план лечения по рекомендации]  
+[Как составить план лечения по рекомендации](docs/cardPatient/patient-instructions.md#rec_tp)
 
 ---  
