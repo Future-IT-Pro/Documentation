@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'FID-Docs',
-  tagline: 'Dinosaurs are cool',
+  title: 'Future-IT-Dent',
+  tagline: 'Мы рады, что Вы вбрали нас. На данном сайте представлена документация к Медицинской Информационной Системе Future-IT-Dent',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -22,8 +22,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Future-IT-Pro', // Usually your GitHub org/user name.
+  projectName: 'Future-IT-Dent', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -88,9 +88,9 @@ const config = {
             position: 'left',
             label: 'Документация',
           },
-          {to: '/blog', label: 'Новости', position: 'left'},
+         /* {to: '/blog', label: 'Новости', position: 'left'},*/
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Future-IT-Pro/Documentation',
             label: 'GitHub',
             position: 'right',
           },
